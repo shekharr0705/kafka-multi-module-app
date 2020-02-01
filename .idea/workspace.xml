@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a64da3e-74b6-47de-a392-641498eed54a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/kafka-producer">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/kafka-consumer">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-app" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-app" type="f1a62948:ProjectNode" />
+                <item name="kafka-consumer" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-app" type="f1a62948:ProjectNode" />
+                <item name="kafka-consumer" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kafka-app" type="f1a62948:ProjectNode" />
+                <item name="kafka-consumer" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XCrYxsKK0Lys01uu4USFSjUiJq" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Application.KafkaProducerApplication">
+    <configuration name="KafkaConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kafkaconsumer.KafkaConsumerApplication" />
+      <module name="kafka-app.kafka-consumer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kafkaconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kafkaproducer.KafkaProducerApplication" />
+      <module name="kafka-app.kafka-producer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.kafkaproducer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kafka-app:kafka-consumer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-consumer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-app:kafka-consumer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-consumer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kafka-app:kafka-producer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-producer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.kafka-app:kafka-consumer [clean]" />
+        <item itemvalue="Application.KafkaConsumerApplication" />
+        <item itemvalue="Gradle.kafka-app:kafka-consumer [build]" />
+        <item itemvalue="Application.KafkaProducerApplication" />
+        <item itemvalue="Gradle.kafka-app:kafka-producer [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a64da3e-74b6-47de-a392-641498eed54a" name="Default Changelist" comment="" />
+      <created>1580560969694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580560969694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1580564147976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580564147976" />
+    <state x="436" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580562161391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580562161391" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1580563643476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580563643476" />
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom" timestamp="1580567367691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580567367691" />
+    <state width="1323" height="311" key="GridCell.Tab.0.center" timestamp="1580567367691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580567367691" />
+    <state width="1323" height="311" key="GridCell.Tab.0.left" timestamp="1580567367691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580567367691" />
+    <state width="1323" height="311" key="GridCell.Tab.0.right" timestamp="1580567367691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="311" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580567367691" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580565675117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580565675117" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580561238074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580561238074" />
+  </component>
+</project>
